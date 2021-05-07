@@ -42,6 +42,11 @@
     <ClInclude Include="pubilc_include.h" />
     <ClInclude Include="string_convert.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\portable-executable-library\pe_lib\pe_lib.vcxproj">
+      <Project>{1461f543-d1fa-4e4c-b6d7-0f879f566035}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

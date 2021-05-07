@@ -7,3 +7,6 @@
 [submodule "XAntiDebug"]
 	path = XAntiDebug
 	url = https://github.com/strivexjun/XAntiDebug.git
+[submodule "portable-executable-library"]
+	path = portable-executable-library
+	url = https://github.com/SpadesA99/portable-executable-library.git
