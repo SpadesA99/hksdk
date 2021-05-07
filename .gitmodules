@@ -10,3 +10,6 @@
 [submodule "portable-executable-library"]
 	path = portable-executable-library
 	url = https://github.com/SpadesA99/portable-executable-library.git
+[submodule "AES"]
+	path = AES
+	url = https://github.com/SergeyBel/AES.git
