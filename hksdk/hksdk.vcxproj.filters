@@ -16,6 +16,12 @@
     <Filter Include="include">
       <UniqueIdentifier>{dc4d6c59-3f4e-415c-9605-ed6faf66a3ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{d96d28fd-7eca-40f0-bdd1-f0adf1835817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter2">
+      <UniqueIdentifier>{cd59d2ee-e7b9-440f-b97c-276d7683f925}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string_convert.h">
@@ -30,6 +36,12 @@
     <ClInclude Include="pubilc_include.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\colored-cout\colored_cout.h">
+      <Filter>NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AES\src\AES.h">
+      <Filter>NewFilter2</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string_convert.cpp">
@@ -37,6 +49,12 @@
     </ClCompile>
     <ClCompile Include="file.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\colored-cout\colored_cout.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AES\src\AES.cpp">
+      <Filter>NewFilter2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,4 +1,6 @@
 #pragma once
+#include "string_convert.h"
+#include "file.h"
 
 #include "../xorstr/include/xorstr.hpp"
 #include "../lazy_importer/include/lazy_importer.hpp"
@@ -6,5 +8,3 @@
 #include "../AES/src/AES.h"
 #include "../colored-cout/colored_cout.h"
 
-#include "string_convert.h"
-#include "file.h"

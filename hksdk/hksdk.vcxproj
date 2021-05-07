@@ -35,10 +35,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\AES\src\AES.cpp" />
+    <ClCompile Include="..\colored-cout\colored_cout.cpp" />
     <ClCompile Include="file.cpp" />
     <ClCompile Include="string_convert.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\AES\src\AES.h" />
+    <ClInclude Include="..\colored-cout\colored_cout.h" />
     <ClInclude Include="c_defer.hpp" />
     <ClInclude Include="file.h" />
     <ClInclude Include="pubilc_include.h" />
