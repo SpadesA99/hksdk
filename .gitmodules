@@ -13,3 +13,6 @@
 [submodule "AES"]
 	path = AES
 	url = https://github.com/SergeyBel/AES.git
+[submodule "colored-cout"]
+	path = colored-cout
+	url = https://github.com/yurablok/colored-cout.git
