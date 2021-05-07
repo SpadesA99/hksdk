@@ -24,9 +24,15 @@
     <ClInclude Include="pubilc_include.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="file.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string_convert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="file.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
