@@ -22,6 +22,9 @@
     <Filter Include="NewFilter2">
       <UniqueIdentifier>{cd59d2ee-e7b9-440f-b97c-276d7683f925}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter3">
+      <UniqueIdentifier>{c82ec83d-a920-476e-ab45-10d65db6d468}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="string_convert.h">

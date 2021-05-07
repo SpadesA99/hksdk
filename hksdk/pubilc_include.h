@@ -8,3 +8,8 @@
 #include "../AES/src/AES.h"
 #include "../colored-cout/colored_cout.h"
 
+#include <rapidjson/stringbuffer.h>
+#include <rapidjson/writer.h>
+#include <rapidjson/document.h>
+#include <cpr/cpr.h>
+
