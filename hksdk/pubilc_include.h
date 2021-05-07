@@ -3,3 +3,4 @@
 #include "../lazy_importer/include/lazy_importer.hpp"
 #include "../portable-executable-library/pe_lib/pe_bliss.h"
 #include "string_convert.h"
+#include "file.h"
