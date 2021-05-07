@@ -1,0 +1,9 @@
+[submodule "xorstr"]
+	path = xorstr
+	url = https://github.com/JustasMasiulis/xorstr.git
+[submodule "lazy_importer"]
+	path = lazy_importer
+	url = https://github.com/JustasMasiulis/lazy_importer.git
+[submodule "XAntiDebug"]
+	path = XAntiDebug
+	url = https://github.com/strivexjun/XAntiDebug.git
