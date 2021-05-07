@@ -21,6 +21,9 @@
     <ClInclude Include="c_defer.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="pubilc_include.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string_convert.cpp">

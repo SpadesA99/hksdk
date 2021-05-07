@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="c_defer.hpp" />
+    <ClInclude Include="pubilc_include.h" />
     <ClInclude Include="string_convert.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
